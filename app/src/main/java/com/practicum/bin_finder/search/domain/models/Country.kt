@@ -1,4 +1,4 @@
-package com.practicum.bin_finder.history.domain.models
+package com.practicum.bin_finder.search.domain.models
 
 data class Country(
     val alpha2: String,
